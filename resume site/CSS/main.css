@@ -1,0 +1,54 @@
+body {
+  background: url("https://image.freepik.com/free-vector/abstract-background-with-a-3d-pattern_1319-68.jpg");
+  margin: 0;
+
+
+}
+div {
+  background-color: #C0C0C0; 
+  text-align: center;
+ } 
+h1{
+  font-family: Century Gothic;
+  font-size: 350%
+}
+
+
+h2{
+  font-family: Century Gothic;
+  font-style:italic;
+  font-size: 175%;
+  }
+ h4 {
+    display: inline-block;
+    margin: 0px auto;
+    position: inline-block;
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+  margin:0;
+  font-size: 175%;
+}
+h4{
+  font-family:Century Gothic;
+  font-style: bold;
+  font-size: 250%;
+  background: white;
+  opacity: 95%
+}
+
+h5{
+  font-family:Century Gothic;
+  background: white;
+  opacity: 95%;
+  display: inline-block;
+  font-style: bold;
+  font-size: 250%;
+  margin: 0;
+ } 
+ p{
+  font-family: Century Gothic;
+  font-size: 175%;
+ }
