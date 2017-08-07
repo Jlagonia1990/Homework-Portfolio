@@ -9,13 +9,13 @@ div {
   text-align: center;
  } 
 h1{
-  font-family: Century Gothic;
+  font-family: Garamond;
   font-size: 350%
 }
 
 
 h2{
-  font-family: Century Gothic;
+  font-family: Garamond;
   font-style:italic;
   font-size: 175%;
   }
@@ -27,21 +27,23 @@ h2{
 
 ul{
   list-style-type: none;
+  font-family: Garamond;
   text-align: center;
+  font-style: italic;
   margin:0;
-  font-size: 175%;
+  font-size: 150%;
 }
 h4{
-  font-family:Century Gothic;
+  font-family: Garamond;
   font-style: bold;
   font-size: 250%;
-  background: white;
+  background: #e6f7ff;
   opacity: 95%
 }
 
 h5{
-  font-family:Century Gothic;
-  background: white;
+  font-family: Garamond;
+  background: #e6f7ff;
   opacity: 95%;
   display: inline-block;
   font-style: bold;
@@ -49,6 +51,17 @@ h5{
   margin: 0;
  } 
  p{
-  font-family: Century Gothic;
+  font-family: Garamond;
   font-size: 175%;
+  margin: 0px auto;
+  text-align: justify;
+   -moz-text-align-last: center;
+  text-align-last: center;
  }
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
