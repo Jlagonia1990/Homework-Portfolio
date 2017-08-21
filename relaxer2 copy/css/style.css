@@ -1,0 +1,212 @@
+#title{
+  background:#f0efef;
+}
+#bodycopy{
+  background:#f0efef;
+  font-style: bold;
+}
+
+body{
+  background:  #f0efef;
+}
+
+#container{
+  background:   #000058; 
+  padding: 14px 16px;
+  height: 100px;
+  font-style: bold;
+}
+h1{
+  color:white;
+  font-family: 'Open Sans';
+  font-weight: 900;
+  font-size: 50px;
+  padding: 30px 30px;
+  float:left;
+}
+#myTopnav{
+ text-align: right;
+ font-family: 'Open Sans';
+ padding: 50px 50px;
+}
+
+a{
+  color:yellow;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px 15px;
+  font-size: 19px
+}
+ #title{
+  font-weight: 600;
+  font-family: 'Open Sans';
+  font-size: 40px;
+  color:  #000058;
+  padding: 40px 40px;
+  text-align: left;
+  height: 50px;
+  float: left;
+}
+#categories{
+  float:right;
+  font-size: 40px;
+  color: #000058;
+  font-weight: 600;
+  padding: 50px 50px;
+  text-align: left;
+  font-family: 'Open Sans';
+  line-height: 60px;
+}
+
+#list1{
+  font-size: 24px;
+  text-align: left;
+  font-weight: 100;
+  line-height: 35px;
+}
+
+#list3{
+  font-size:24px;
+}
+#list4{
+  padding: 40px 40px;
+  background: white;
+  text-align: height: 50px;
+  background: bold;
+}
+
+#list5{
+padding: 300px 40px;
+background: white;
+
+}
+
+
+p{
+  font-size: 24px;
+  text-align: left;
+  font-weight: 100;
+  line-height: 35px;
+}
+
+img{
+ padding: 30px 30px;
+ float: left;
+}
+
+#bodycopy{
+  font-size: 24px;
+  font-family: 'Open Sans';
+  line-height: 35px;
+  font-weight: 100;
+  color:       #606161;
+  padding: 30px 30px;
+  float: left;
+  
+}
+#readmore{
+  font-weight: 900;
+  float: right;
+  color: #000058;
+}
+
+.firstcharacter {
+  float: left;
+  color:    #888888;
+  font-weight: 500;
+  font-family: 'Open Sans';
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+hr{
+ padding: 10px 10px;
+}
+
+#relaxrtravel{
+  font-size: 40px;
+  font-family: 'Open Sans';
+  color:  #000058;
+  font-weight: 900;
+}
+
+#body2{
+  font-size: 24px;
+  font-family: 'Open Sans';
+  line-height: 35px;
+  font-weight: 100;
+  color:       #606161;
+  padding: 30px 30px;
+  float: left;
+}
+#readmore2{
+  font-weight: 900;
+  float: right;
+  color: #000058;
+  text-underline-position: bottom;
+}
+
+#hr2{
+ padding: 10px 10px;
+}
+
+#signup{
+  background:yellow;
+  padding: 40px 470px;
+  float: left;
+}
+
+input{
+  border-radius: 5px;
+  width: 300px;
+  height: 50px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: white;
+  background: #003366;
+  border-color:  #003366;
+  font-size: 20px;
+  font-family: 'Open Sans'
+  border border-radius: 5%;
+  float: left;
+}
+#last{
+  background:black;
+  padding: 48px 500px;
+  text-align:center;
+  color: yellow;
+  font-weight: bold;
+  font-size:40px;
+  float: left;
+  font-family: 'Open Sans';
+}
+
+h6{
+  background:black;
+  text-align:left;
+  margin right: 20px;
+  color:white;
+  font-size: 14px;
+  padding: 40px 40px;
+  font-style: 'Open Sans';
+}
+
+#facebooktwitter{
+  background: black;
+  align-content: center;
+
+}
+
+#twitter{
+  background: black;
+}
+
+#facebook{
+ background: black;
+}
+
+
+
+
