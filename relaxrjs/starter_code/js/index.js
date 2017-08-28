@@ -1,4 +1,13 @@
 $(document).ready(function() {
+	$(".readmore").hide();
+	$("#show-this-on-click").click(slideDown);
+	$(".readless hide").show();
+	$("readless hide").hide();
+	$("#show-this-on-click").click(slideUp);
+	$(".readmore").show();
+	$('.learnmore').hide();
+	$("#learnmoretext").click(slideDown);
+
 
 function readmore() {
   $('.readmore').hide();
