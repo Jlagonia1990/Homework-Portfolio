@@ -1,28 +1,32 @@
 $(document).ready(function() {
-	$(".readmore").hide();
-	$("#show-this-on-click").click(slideDown);
-	$(".readless hide").show();
-	$("readless hide").hide();
-	$("#show-this-on-click").click(slideUp);
-	$(".readmore").show();
-	$('.learnmore').hide();
-	$("#learnmoretext").click(slideDown);
 
+$("#paragraph1").hide();
+$(".readless").hide();
+$(".readmore").click(showparagraph);
+$(".readless").click(hideparagraph);
 
-function readmore() {
-  $('.readmore').hide();
-  $('#show-this-on-click').slideDown();
-  $('.readless hide').show();
-}
-function readless hide() {
-  $('.readless hide').hide();
-  $('#show-this-on-click').slideUp();
-  $('.readmore').show();
+function showparagraph() {
+    $("#paragraph1").show();
+    $(".readmore").hide();
+    $(".readless").show();
 }
 
-function sidebarLearnMore() {
-  $('.learnmore').hide();
-  $('#learnmoretext').slideDown();
+function hideparagraph() {
+    $("#paragraph1").hide();
+    $(".readmore").show();
+    $(".readless").hide();
 }
+
+
+
+$(".hide").hide();
+$(".learnmore").click(showmore);
+
+function showmore() {
+    $(".hide").show();
+    $(".learnmore").hide();
+}
+
+event.preventDefault()
+
 });
-
